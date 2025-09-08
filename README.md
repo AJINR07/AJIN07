@@ -4,7 +4,7 @@
 - 🤖 Exploring **IoT & Embedded Systems** for real-world problem solving  
 - 💡 Love learning new tech and turning ideas into practical solutions  
 - 🌱 Trying to bridge the gap between **Electronics and Software**  
-- 📬 Reach me at: **saimiruthul@gmail.com**
+- 📬 Reach me at: **rajinashwin@gmail.com**
 
 ---
 
