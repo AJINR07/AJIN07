@@ -58,11 +58,6 @@
 ---
 
 ## 🔖 Pinned Projects
-- 🐍 [Python Work Files](#)  
-- 🌱 [IoT-based Plant Monitoring System](#)  
-- 📝 [Online Exam Portal](#)  
-- 🎓 [Student Information Management System](#)  
-- 💊 [Medicine Inventory System](#)  
-
+- Rover-Based Courier Delivery Vehicle
 ---
 ✨ _“Keep learning, keep building, keep growing!”_
